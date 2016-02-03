@@ -41,5 +41,6 @@ namespace Teht1
         {
             return "temp = " + Temperature + " Humi = " + Humidity + " IsOn = " + IsOn;
         }
+   
     }
 }
